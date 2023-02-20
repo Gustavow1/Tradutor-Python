@@ -19,7 +19,7 @@ Fecha o programa.
 - Responder em voz alta se deseja escrever automaticamente
 - Esperar a linha "Ouvindo..." aparecer para começar a falar
 - Para fechar o programa é necessário falar "Parar" ou "Stop"
-- Para fechar o programa manualmente é necessário apertar as teclas CTRL + C
+- Para fechar o programa manualmente é necessário apertar as teclas CTRL + C (Windows)
 
 # Tecnologias utilizadas
 - Python
